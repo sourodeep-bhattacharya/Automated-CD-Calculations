@@ -1,0 +1,11 @@
+%chk=checkpoint.chk
+%nproc=2
+%mem=8000MB
+
+#p wb97xd/6-31G(d,p)
+td(NStates=10, singlets)
+integral=ultrafine
+
+SPEVE for water
+
+0 1
