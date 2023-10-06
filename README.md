@@ -1,4 +1,5 @@
-# Automated-CD-Calculations 
+# Automated Gaussian Scan Analyzer
+
 Developed Java program to read output files from Gaussian coordinate scans and return input files for later calculations.
 
 Gaussian is a computational chemistry software that can calculate single-point energy, optimized geometries, transistion states, and other chemical properties based on an input molecular geometry. 
