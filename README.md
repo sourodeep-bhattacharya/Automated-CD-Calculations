@@ -1,5 +1,5 @@
 # Automated Gaussian Scan Analyzer
 
-Developed Java program to read output files from Gaussian coordinate scans and return input files for future calculations.
+Developed Java program to read molecular geomoetries from Gaussian coordinate scan output files and create input files for future calculations.
 
 
